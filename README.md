@@ -1,6 +1,8 @@
 # Predicting heavy metal adsorption in soil
 A machine learning model based on gradient boosting decision tree for predicting heavy metal adsorption in soil.
 
+An online predictor has been created on the project [**ChemAI**](https://www.chemai.aropha.com/) launched by Dr. Huichun Zhang's research group at Case Western Reserve University: **https://www.chemai.aropha.com/adsorption/heavy-metal-in-soil/about.html**
+
 ![Adsorption_HMsoil_TOC](https://user-images.githubusercontent.com/70991409/138607519-976e7eda-66fe-46c1-b591-0b59c15b8d75.png)
 
 
