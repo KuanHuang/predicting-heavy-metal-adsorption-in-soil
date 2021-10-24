@@ -1,2 +1,16 @@
 # predicting-heavy-metal-adsorption-in-soil
 A machine learning model based on gradient boosting decision tree for predicting heavy metal adsorption in soil.
+
+## Dataset
+The regression model was built on 4,420 data points for soil adsorption to 6 heavy metals (i.e., Cd, Cr, Cu, Pb, Ni, Zn). The model included 9 inputs: (i) four descriptors for soil properties, namely, pH of soil, CEC (cation exchange capacity, cmol/kg), OC (organic carbon, %), and clay content(%); (ii) five descriptors for the adsorption system, namely, the equilibrium concentration (Ce,mg/L), solution pH, ionic strength (I, mol/L), temperature (T, °C), and soil-to-solution ratio (g/mL). The output was the natural logarithm of the corresponding adsorbed heavy metal amount on soil (Ln-mg/g).
+
+## ML algorithms
+A total of 10 ML algorithms were examined to find the best one, including Classification and Regression Trees, K-nearest neighbors, Linear regression, Ridge regression, Stochastic gradient descent regressor, Support vector regression, Extremely randomized trees, Gradient boosting decision tree, Random forest, Extreme gradient boosting.
+
+Gradient boosting decision tree was found to be the best one.
+
+## Other notes
+The feature importance of 9 input parameters was analyzed using the Shapley additive explanation method to identify their effect on the adsorption, which agreed with the known mechanisms.
+
+## Publication
+This work has been published on Environmental Science & Technology at: Yang, H.; Huang, K.; Zhang, K.; Weng, Q.; Zhang, H.; Wang, F. Predicting Heavy Metal Adsorption on Soil with Machine Learning and Mapping Global Distribution of Soil Adsorption Capacities. *Environ. Sci. Technol.* **2021**, *55* (20), 14316-14328. https://doi.org/10.1021/acs.est.1c0247
