@@ -18,7 +18,7 @@ Gradient boosting decision tree was found to be the best one.
 The feature importance of 9 input parameters was analyzed using the Shapley additive explanation method to identify their effect on the adsorption, which agreed with the known mechanisms.
 
 ## Publication
-This work has been published on Environmental Science & Technology at: 
+This work has been published on Environmental Science & Technology: 
 
 Yang, H.; Huang, K.; Zhang, K.; Weng, Q.; Zhang, H.; Wang, F. Predicting Heavy Metal Adsorption on Soil with Machine Learning and Mapping Global Distribution of Soil Adsorption Capacities. *Environ. Sci. Technol.* **2021**, *55* (20), 14316-14328. https://doi.org/10.1021/acs.est.1c0247
 
