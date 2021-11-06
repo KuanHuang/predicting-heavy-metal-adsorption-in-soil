@@ -4,6 +4,7 @@ A machine learning model based on gradient boosting decision tree for predicting
 An online predictor has been created on the project [**ChemAI**](https://www.chemai.aropha.com/) launched by Dr. Huichun Zhang's research group at Case Western Reserve University, which is hosted and supported by [**Aropha Inc.**](https://www.aropha.com/) at: **https://www.chemai.aropha.com/adsorption/heavy-metal-in-soil/about.html**
 
 ![Adsorption_HMsoil_TOC](https://user-images.githubusercontent.com/70991409/138607519-976e7eda-66fe-46c1-b591-0b59c15b8d75.png)
+source: https://doi.org/10.1021/acs.est.1c0247
 
 
 ## Dataset
@@ -23,3 +24,4 @@ This work has been published on Environmental Science & Technology:
 Yang, H.; Huang, K.; Zhang, K.; Weng, Q.; Zhang, H.; Wang, F. Predicting Heavy Metal Adsorption on Soil with Machine Learning and Mapping Global Distribution of Soil Adsorption Capacities. *Environ. Sci. Technol.* **2021**, *55* (20), 14316-14328. https://doi.org/10.1021/acs.est.1c0247
 
 ![Adsorption_HMsoil_plot](https://user-images.githubusercontent.com/70991409/138607531-5f74f1ec-fa7d-4c70-8237-f334e85bc464.png)
+source: https://doi.org/10.1021/acs.est.1c0247
